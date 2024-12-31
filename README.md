@@ -1,3 +1,4 @@
 # 基于yoloV10的机器人系统车间头盔佩戴检测
-yoloV10 helmet检测
-![图片名称]([https://www.baidu.com/img/bd_logo1.png](https://github.com/Agostome/-yoloV10-Helmet-inspection-in-industrial-robot-workshop-/blob/main/results.png))
+训练轮次:50  训练深度:16
+训练结果如下：
+![图片名称](https://github.com/Agostome/-yoloV10-Helmet-inspection-in-industrial-robot-workshop-/blob/main/results.png)
